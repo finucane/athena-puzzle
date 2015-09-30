@@ -14,12 +14,12 @@ Write a program which takes a word as a command line argument and prints to stan
 
 Sample words, with their rank:  
 
-ABAB = 2 
-AAAB = 1 
-BAAA = 4 
-QUESTION = 24572 
-BOOKKEEPER = 10743 
-NONINTUITIVENESS = 8222334634 
+ABAB = 2  
+AAAB = 1  
+BAAA = 4  
+QUESTION = 24572  
+BOOKKEEPER = 10743  
+NONINTUITIVENESS = 8222334634  
 
 Your program will be judged on how fast it runs and how clearly the code is written. We will be running your program as well as reading the source code, so anything you can do to make this process easier would be appreciated.
 
@@ -27,10 +27,10 @@ Your program will be judged on how fast it runs and how clearly the code is writ
 
 My solution is in a single .cpp file with header.
 
-bash-3.2$ g++ PermutationNumber.cpp
-bash-3.2$ ./a.out QUESTION
-24572
-bash-3.2$ 
+bash-3.2$ g++ PermutationNumber.cpp  
+bash-3.2$ ./a.out QUESTION  
+24572  
+bash-3.2$  
 
 See Number.cpp for comments on how the solution works, and work.jpeg for my doodles.
 
